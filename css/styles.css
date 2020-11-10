@@ -140,13 +140,11 @@ footer details summary:hover {
 .center {
   text-align: center;
 }
-.highlight {
-  color: #e93e5b;
-}
 
 #shop > h2 {
-  font-size: 1.2rem;
-  margin: 0 auto;
+  font-size: 5rem;
+  margin: 1rem 1rem;
+  text-align: center;
 }
 
 /* Responsiveness */
